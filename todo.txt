@@ -1,0 +1,2 @@
+- Add some way to insert nested values
+- Add function/macro to create schemas
