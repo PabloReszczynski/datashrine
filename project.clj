@@ -7,7 +7,8 @@
                  [clj-http "3.10.0"]
                  [reaver "0.1.2"]
                  [io.replikativ/datahike "0.2.0"]
-                 [clj-json "0.5.3"]]
+                 [clj-json "0.5.3"]
+                 [twitter-api "1.8.0"]]
 
   :profiles {:dev {:dependencies [[midje/midje "1.9.8"]
                                   [nrepl "0.7.0-alpha3"]
